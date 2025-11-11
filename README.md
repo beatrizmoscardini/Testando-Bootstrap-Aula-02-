@@ -1,2 +1,3 @@
 # Testando-Bootstrap-Aula-02-
-Usando o bootstrap novamente
+
+Nessa aula, utilizamos o bootstrap novamente e criamos um header com imagem, cards e menus.
